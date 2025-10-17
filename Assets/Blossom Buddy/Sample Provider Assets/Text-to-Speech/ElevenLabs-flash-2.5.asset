@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ElevenLabs-flash-2.5
   m_EditorClassIdentifier: 
   supportedInferenceTypes: 1
-  apiKey: 
+  apiKey: ${ELEVEN_TOKEN}
   endpoint: https://api.elevenlabs.io
   model: eleven_flash_v2_5
   voiceId: 21m00Tcm4TlvDq8ikWAM

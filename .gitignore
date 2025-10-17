@@ -60,3 +60,6 @@ Assets/Resources/buildinfo*
 # Gradle and Burst caches
 /Library/Bee/
 /Library/PackageCache/
+
+
+.env

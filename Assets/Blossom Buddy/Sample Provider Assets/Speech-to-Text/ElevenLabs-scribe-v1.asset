@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ElevenLabs-scribe-v1
   m_EditorClassIdentifier: 
   supportedInferenceTypes: 1
-  apiKey: sk_2ca1d38ca2521ddb5142799acdce12b957b344d180970a0f
+  apiKey: ${ELEVEN_TOKEN}
   endpoint: https://api.elevenlabs.io
   model: scribe_v1
   voiceId: 21m00Tcm4TlvDq8ikWAM
